@@ -1,0 +1,6 @@
+{
+  "name": "Dragon Ball Duty: Modern Combat",
+  "description": "3D tactical military shooter engine foundation with stylized military training base, Three.js WebGL rendering, and Rapier 3D physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
